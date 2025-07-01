@@ -94,5 +94,50 @@ Below is an example of a High-Fidelity wire frame of a mobile app design.
 [Click here](https://savanna.alxafrica.com/rltoken/HnTbrzrJX1IfPIxugo8Uvw)
 
 
+## Popular Wireframing Tools
+
+###  1. Figma — *Versatile and Collaborative*
+**Figma** stands out for its cloud-based, real-time collaboration features and intuitive design environment. Here’s why it’s so effective for wireframing:
+
+- **Live Collaboration**: Multiple users can work simultaneously, making it great for teams or client feedback.
+- **Reusable Components**: Use libraries of design elements like buttons or nav bars to keep your wireframes consistent and scalable.
+- **Auto Layout**: Easily structure responsive frames that adapt as you resize or rearrange elements.
+- **Prototyping**: Link your wireframes with interactive flows to visualize user journeys—no need to switch apps.
+- **Community Templates**: Access wireframe kits and assets from a huge library to kickstart your design process.
+
+ *Recommended for*: Both low- and high-fidelity wireframes, UI mockups, and interactive prototypes.
+
+---
+
+### 2. Balsamiq — *Low-Fidelity Specialist*
+- Known for its “sketchy” visual style that keeps the focus on structure, not design polish.
+- Great for brainstorming and stakeholder discussions without distraction.
+
+---
+
+### 3. Adobe XD
+- Combines wireframing, UI design, and prototyping in one powerful tool.
+- Supports plugins and integrations with other Adobe products.
+- Popular among creative professionals used to the Adobe ecosystem.
+
+---
+
+### 4. Sketch (macOS only)
+- Clean interface and strong symbol/component features.
+- Widely used in digital product design workflows.
+- Best suited for Mac users building high-fidelity interfaces.
+
+---
+
+### 5. Whimsical
+- Lightweight, browser-based tool great for quick low-fi wireframes and flowcharts.
+- Drag-and-drop simplicity with team-friendly features.
+
+---
+
+## Final Thoughts
+
+If you’re aiming for a modern, collaborative workflow that scales from rough wireframes to detailed prototypes, **Figma** delivers end-to-end. Especially with your knack for clean layouts and iteration, you might find its component systems and live editing to be game-changers.
+
 
 
